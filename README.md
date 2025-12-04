@@ -17,7 +17,7 @@
 
 
 
-[lua-logo]: https://img.shields.io/badge/Lua-14a327?style=for-the-badge&logo=lua&logoColor=white
+[lua-logo]: https://img.shields.io/badge/Lua-00a3ff?style=for-the-badge&logo=lua&logoColor=white
 [csharp-logo]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c%23&logoColor=white
 [js-logo]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [html-logo]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
