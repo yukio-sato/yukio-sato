@@ -7,9 +7,11 @@
 [mysql-logo]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 [figma-logo]: https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 [vscode-logo]: https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=vscode&logoColor=white
+[git-logo]: https://img.shields.io/badge/Git-cfcf00?style=for-the-badge&logo=git&logoColor=black
 
 # 🤖 Hello World!
 # 📚 My Knowledge
+<a href="https://code.visualstudio.com/](https://git-scm.com/" title="Git">![git-logo][git-logo]</a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code">![vscode][vscode-logo]</a>
 <a href="https://www.figma.com/" title="Figma">![figma][figma-logo]</a>
 <a href="https://create.roblox.com/docs/scripting" title="Luau">![moon][lua-logo]</a>
