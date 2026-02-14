@@ -1,20 +1,3 @@
-  
-# Hello World!
-
-# My Knowledge
-![moon][lua-logo]
-![vscode][vscode-logo]
-![csharp][csharp-logo]
-![mysql][mysql-logo]
-![html][html-logo]
-![css][css-logo]
-![js][js-logo]
-![figma][figma-logo]
-![php][php-logo]
-
-
-
-
 [lua-logo]: https://img.shields.io/badge/Lua-00a3ff?style=for-the-badge&logo=lua&logoColor=white
 [csharp-logo]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c%23&logoColor=white
 [js-logo]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
@@ -24,4 +7,15 @@
 [mysql-logo]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 [figma-logo]: https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 [vscode-logo]: https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=vscode&logoColor=white
-[viewer]: https://komarev.com/ghpvc/?username=yukio-sato&style=for-the-badge
+
+# 🤖 Hello World!
+# 📚 My Knowledge
+<a href="https://code.visualstudio.com/">![vscode][vscode-logo]</a>
+<a href="https://www.figma.com/">![figma][figma-logo]</a>
+<a href="https://create.roblox.com/docs/scripting">![moon][lua-logo]</a>
+<a href="https://dotnet.microsoft.com/pt-br/languages/csharp">![csharp][csharp-logo]</a>
+<a href="https://www.mysql.com/">![mysql][mysql-logo]</a>
+<a href="https://www.w3schools.com/html/">![html][html-logo]</a>
+<a href="https://www.w3schools.com/css/">![css][css-logo]</a>
+<a href="https://www.w3schools.com/js/">![js][js-logo]</a>
+<a href="https://www.php.net/">![php][php-logo]</a>
