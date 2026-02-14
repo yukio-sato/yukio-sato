@@ -1,8 +1,6 @@
   
 # Hello World!
 
-![viewed][viewer]
-
 # My Knowledge
 ![moon][lua-logo]
 ![vscode][vscode-logo]
