@@ -10,12 +10,12 @@
 
 # 🤖 Hello World!
 # 📚 My Knowledge
-<a href="https://code.visualstudio.com/">![vscode][vscode-logo]</a>
-<a href="https://www.figma.com/">![figma][figma-logo]</a>
-<a href="https://create.roblox.com/docs/scripting">![moon][lua-logo]</a>
-<a href="https://dotnet.microsoft.com/pt-br/languages/csharp">![csharp][csharp-logo]</a>
-<a href="https://www.mysql.com/">![mysql][mysql-logo]</a>
-<a href="https://www.w3schools.com/html/">![html][html-logo]</a>
-<a href="https://www.w3schools.com/css/">![css][css-logo]</a>
-<a href="https://www.w3schools.com/js/">![js][js-logo]</a>
-<a href="https://www.php.net/">![php][php-logo]</a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code">![vscode][vscode-logo]</a>
+<a href="https://www.figma.com/" title="Figma">![figma][figma-logo]</a>
+<a href="https://create.roblox.com/docs/scripting" title="Luau">![moon][lua-logo]</a>
+<a href="https://dotnet.microsoft.com/pt-br/languages/csharp" title="C#">![csharp][csharp-logo]</a>
+<a href="https://www.mysql.com/" title="MySql">![mysql][mysql-logo]</a>
+<a href="https://www.w3schools.com/html/" title="HTML5">![html][html-logo]</a>
+<a href="https://www.w3schools.com/css/" title="CSS">![css][css-logo]</a>
+<a href="https://www.w3schools.com/js/" title="JavaScript">![js][js-logo]</a>
+<a href="https://www.php.net/" title="PHP">![php][php-logo]</a>
